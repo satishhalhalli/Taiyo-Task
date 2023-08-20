@@ -1,3 +1,6 @@
+![Screenshot (26)](https://github.com/satishhalhalli/Taiyo-Task/assets/123924621/9d885d47-a410-4459-b2f2-6149540dd135)
+![Uploading Screenshot (25).png…]()
+![Uploading Screenshot (24).png…]()
 # Contact Management System
 
 This is a Contact Management System built using React and Redux. It allows users to create, edit, and delete contacts, as well as view a list of existing contacts. Additionally, it provides worldwide COVID-19 cases data and visualizations.
@@ -26,6 +29,8 @@ Include screenshots that showcase the user interface of your Contact Management 
 - Maps and Charts Page
 - Line Graph Visualization of COVID-19 Cases
 - World Map with COVID-19 Cases Data Popped for Countries
+- ![Uploading Screenshot (23).png…]()
+![Uploading Screenshot (22).png…]()
 
 ## Getting Started
 To run this project locally, follow these steps:
@@ -54,5 +59,8 @@ To run this project locally, follow these steps:
 ## Live Link
 -Check Out Here :>>>>>>>  https://taiyo-assignment-self.vercel.app/
 
+![Uploading Screenshot (23).png…]()
+![Uploading Screenshot (22).png…]()
+[screen-capture (5).webm](https://github.com/satishhalhalli/Taiyo-Task/assets/123924621/a5638179-0718-4375-b877-42cc3fc86bf2)
 
 
