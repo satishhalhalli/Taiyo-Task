@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Contact Management System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Contact Management System built using React and Redux. It allows users to create, edit, and delete contacts, as well as view a list of existing contacts. Additionally, it provides worldwide COVID-19 cases data and visualizations.
 
-## Available Scripts
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- LIve link(#app link)
 
-In the project directory, you can run:
+## Introduction
+The Contact Management System is designed to help users manage their contacts efficiently. Users can add new contacts, edit existing ones, and delete contacts they no longer need. The system also includes visualizations of worldwide COVID-19 cases data.
 
-### `npm start`
+## Features
+- Create new contacts with first name, last name, contact number, and status.
+- Edit existing contacts' information.
+- Delete unwanted contacts.
+- Display a list of contacts with their details.
+- Show a message if no contacts are found.
+- Visualize worldwide COVID-19 cases using line graphs and maps.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
+Include screenshots that showcase the user interface of your Contact Management System and the Maps and Charts feature. Here's a brief description of the additional screenshots you can include:
+- Maps and Charts Page
+- Line Graph Visualization of COVID-19 Cases
+- World Map with COVID-19 Cases Data Popped for Countries
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
+To run this project locally, follow these steps:
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Run the project using `npm start`.
+5. Open your web browser and go to `http://localhost:3000` to access the app.
 
-### `npm test`
+## Usage
+- Open the app and you'll be presented with a sidebar, a header, and the contact page.
+- Click "Create Contact" to add a new contact or edit and delete existing contacts.
+- If there are no contacts, you'll see a "No contacts found" message. Otherwise, the list of contacts will be displayed.
+- Navigate to the "Maps and Charts" page to view worldwide COVID-19 cases data.
+- The line graph visualization shows trends in COVID-19 cases over time.
+- The world map displays COVID-19 cases data for each country on a map.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
+- React: Frontend library for building user interfaces.
+- Redux: State management for predictable state changes.
+- react-redux: Official React bindings for Redux.
+- react-router-dom: Library for handling routing within a React app.
+- react-chartjs-2: A wrapper for Chart.js to create interactive charts and graphs.
+- react-leaflet: A library for integrating Leaflet maps into React applications.
 
-### `npm run build`
+## Live Link
+-Check Out Here :>>>>>>>  https://taiyo-assignment-self.vercel.app/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
